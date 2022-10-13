@@ -1,3 +1,5 @@
+**This is used as a test repository for HCIV project**
+
 # Firefox for Android
 
 [![Task Status](https://firefox-ci-tc.services.mozilla.com/api/github/v1/repository/mozilla-mobile/fenix/main/badge.svg)](https://firefox-ci-tc.services.mozilla.com/api/github/v1/repository/mozilla-mobile/fenix/main/latest)
